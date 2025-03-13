@@ -1,5 +1,3 @@
-# transfer Chinese to English
-
 # Hugging Face Model Collection Download Tool
 
 This tool is used to automatically download model collections on Hugging Face, as an example of the Facebook SPARSH collection, users can modify the collection URL to download models from other collections.
